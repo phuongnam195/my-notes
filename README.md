@@ -38,6 +38,22 @@
     
 *   cattle: gia súc, đàn gia súc (có thể số ít hoặc số nhiều tùy theo ngữ cảnh)
     
+*   straight /strāt/: xờ-trây-t
+    
+*   dignity (n): nhân phẩm
+    
+    *   dignify (v): làm cho trang trọng
+        
+        *   We had dignified his departure with a ceremony
+            
+        *   (Chúng tôi đã trang trọng cho sự ra đi của anh ấy bằng một buổi lễ)
+            
+    *   dignified (adj): đàng hoàng, đứng đắn, nghiêm túc
+        
+*   misery (n): khốn khổ
+    
+    *   misarable (adj): khổ sở
+        
 
 # Note
 
@@ -82,3 +98,5 @@
 *   Muốn diễn đạt đây là lần thứ mấy ai đó làm gì: **_It’s the first/second… time_** + hiện tại hoàn thành.
     
     *   Chủ ngữ là 'I' thì sử dụng have + **VpII**.
+        
+*   Not only do I want to be a developer, I also want to be one of the best developer in my country.
