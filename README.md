@@ -105,3 +105,7 @@
 
     *   A camera is for taking photos.
     *   Women are for being loved.
+
+*   Cấu trúc **HAVE + object + V3** có nghĩa: người khác làm gì cho ta
+
+    *   I had my hair cut = Someone cut my hair
