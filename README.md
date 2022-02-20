@@ -100,3 +100,8 @@
     *   Chủ ngữ là 'I' thì sử dụng have + **VpII**.
         
 *   Not only do I want to be a developer, I also want to be one of the best developer in my country.
+
+*   Cấu trúc **FOR + Ving** được dùng khi nói về chức năng của một đối tượng.
+
+    *   A camera is for taking photos.
+    *   Women are for being loved.
