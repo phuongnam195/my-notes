@@ -53,6 +53,10 @@
 *   misery (n): khốn khổ
     
     *   misarable (adj): khổ sở
+
+*   capital punishment: hình phạt tử hình
+
+*   urban: đô thị - suburban: ngoại ô
         
 
 # Note
